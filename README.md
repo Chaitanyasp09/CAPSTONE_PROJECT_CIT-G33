@@ -21,6 +21,6 @@ The platform ensures that farmers can manage farm activities, personal expenses,
 - **Shreyanka B L**  
   - ID: 20211CIT0147  
 - **Dhanush M**  
-  - ID: 211CIT0069  
+  - ID: 20211CIT0069  
 
 ---
